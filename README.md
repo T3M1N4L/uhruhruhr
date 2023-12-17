@@ -1,6 +1,6 @@
 # Hello, world!
 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
